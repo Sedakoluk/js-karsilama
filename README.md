@@ -1,0 +1,2 @@
+# js-karsilama
+Karşılama ekranı
